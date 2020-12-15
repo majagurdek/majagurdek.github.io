@@ -8,4 +8,4 @@ Więcej informacji można znaleźć klikając w ten link : https://github.com/AG
 Tam również znajduje się dokładny instruktaż jak pobrać i korzystać z programu. 
 :)
 
-
+![image](https://github.com/majagurdek/majagurdek.github.io/blob/main/kalkulator.png?raw=true)
