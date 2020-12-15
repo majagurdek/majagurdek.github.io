@@ -7,4 +7,4 @@ Interfejs programu jest nieskomplikowany, co daje użytkownikowi możliwość ko
 Więcej informacji można znaleźć klikając w ten link : https://github.com/AGH-Narzedzia-Informatyczne/Przelicznik_Wartosci_-Logicznych/wiki.
 Tam również znajduje się dokładny instruktaż jak pobrać i korzystać z programu. 
 
-kalkulator.png
+
