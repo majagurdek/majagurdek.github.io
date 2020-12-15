@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Projekt "Przelicznik Wartości Logicznych
 
-You can use the [editor on GitHub](https://github.com/majagurdek/majagurdek.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zadaniem przelicznika jest sprawdzanie wartości nawet najcięższych formuł logicznych. 
+Inspiracją do stworzenia projektu był prof. dr hab. inż Antoni Ligęza, który w niezwykle przejrzysty sposób przedstawił nam istotę logiki. Był naszą motywacją do stworzenia czegoś, co ułatwi zrozumienie pewnych zagadnień tego przedmiotu. 
+Interfejs programu jest nieskomplikowany, co daje użytkownikowi możliwość korzystania z kalkulatora w sposób bardzo intuicyjny. Wystarczy wybrać jedną z dostępnych opcji i wpisać formułę. Kalkulator rozwiąże problem poprzez stworzenie tabeli logicznej z wartościami 0 i 1.
+Więcej informacji można znaleźć klikając w ten link : https://github.com/AGH-Narzedzia-Informatyczne/Przelicznik_Wartosci_-Logicznych/wiki.
+Tam również znajduje się dokładny instruktaż jak pobrać i korzystać z programu. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/majagurdek/majagurdek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+kalkulator.png
