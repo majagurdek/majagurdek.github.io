@@ -6,5 +6,6 @@ Inspiracją do stworzenia projektu był prof. dr hab. inż Antoni Ligęza, któr
 Interfejs programu jest nieskomplikowany, co daje użytkownikowi możliwość korzystania z kalkulatora w sposób bardzo intuicyjny. Wystarczy wybrać jedną z dostępnych opcji i wpisać formułę. Kalkulator rozwiąże problem poprzez stworzenie tabeli logicznej z wartościami 0 i 1.
 Więcej informacji można znaleźć klikając w ten link : https://github.com/AGH-Narzedzia-Informatyczne/Przelicznik_Wartosci_-Logicznych/wiki.
 Tam również znajduje się dokładny instruktaż jak pobrać i korzystać z programu. 
+:)
 
 
